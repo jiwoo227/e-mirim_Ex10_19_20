@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "e-mirim_Ex10_19_20"
