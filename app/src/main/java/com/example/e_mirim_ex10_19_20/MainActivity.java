@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                     break;
                 case R.id.btn_search:
                     intent = new Intent(Intent.ACTION_WEB_SEARCH);
-                    intent.putExtra(SearchManager.QUERY, "코로나 현황");
+                    intent.putExtra(SearchManager.QUERY, "코로나현황");
                     break;
                 case R.id.btn_sms:
                     uri = Uri.parse("smsto:" + Uri.encode("010-5555-1111"));
