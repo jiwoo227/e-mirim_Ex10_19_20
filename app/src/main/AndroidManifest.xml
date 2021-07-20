@@ -3,7 +3,7 @@
     package="com.example.e_mirim_ex10_19_20">
     <permission android:name="android.permission.CALL_PHONE"/>
     <permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
-    <permission android:name="android.permission."/>
+    <permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 
     <application
         android:allowBackup="true"
